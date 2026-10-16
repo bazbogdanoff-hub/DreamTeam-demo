@@ -1,0 +1,107 @@
+# Photo credits (demo build)
+
+Portraits: randomuser.me placeholder portraits. Other photos: Openverse, CC0 / public domain only.
+
+- antisemitismpray/2: Christmas Candles (othalan, CC0, flickr) https://www.flickr.com/photos/112466437@N03/19682892094
+- antisemitismpray/9: The edge of night, Italian trophy planter, lights, flowers in bloom, apple tree, the darkness of night, bamboo fence, A Garden for the Buddha, Seattle, Washington, USA (Wonderlane, CC0, flickr) https://www.flickr.com/photos/71401718@N00/13098877124
+- antisemitismpray/7: Where a Light Is At the Center Of the Universe (Gonaut, CC0, flickr) https://www.flickr.com/photos/89525842@N00/851674692
+- camp/0: Wing Mountain Camping Area: FR 222A (Coconino NF Photography, PDM, flickr) https://www.flickr.com/photos/42034606@N05/36222662093
+- camp/3: Wing Mountain Camping Area: FR 222 (Coconino NF Photography, PDM, flickr) https://www.flickr.com/photos/42034606@N05/36841469586
+- camp/6: Wing Mountain Camping Area: FR 171 (Coconino NF Photography, PDM, flickr) https://www.flickr.com/photos/42034606@N05/36859094962
+- camp/8: Wing Mountain Camping Area: FR 9001P (Coconino NF Photography, PDM, flickr) https://www.flickr.com/photos/42034606@N05/36633624030
+- camp/1: Wing Mountain Camping Area: FR 222 (Coconino NF Photography, PDM, flickr) https://www.flickr.com/photos/42034606@N05/36633075420
+- consultation/3: 241021 DSec Tulsa 08 (U.S. Department of Veterans Affairs, PDM, flickr) https://www.flickr.com/photos/44636446@N04/54276761420
+- consultation/4: Defense Secretary Panetta ABC News interview Vicenza (U.S. Army Europe, PDM, flickr) https://www.flickr.com/photos/37585279@N03/8405134682
+- consultation/6: Dinner With Doug and Friends (cogdogblog, CC0, flickr) https://www.flickr.com/photos/37996646802@N01/3621753144
+- consultation/2: 20180927-RD-LSC-0065 (USDAgov, PDM, flickr) https://www.flickr.com/photos/41284017@N08/44448435834
+- crm/3: Business Working (Marc Chouinard, CC0, stocksnap) https://stocksnap.io/photo/business-working-PHE63L27S6
+- crm/5: Accounting Finance (Wilfred Iven, CC0, stocksnap) https://stocksnap.io/photo/accounting-finance-JONMP7TPGK
+- crm/6:  (unknown, CC0, rawpixel) https://www.rawpixel.com/image/5974308/photo-image-laptop-work-macbook
+- crm/2: Get Organized! (cogdogblog, CC0, flickr) https://www.flickr.com/photos/37996646802@N01/117804735
+- dance/2: 2014 Language Day at DLIFLC (Presidio of Monterey: DLIFLC & USAG, PDM, flickr) https://www.flickr.com/photos/38345529@N05/14124702906
+- dance/7: 2014 Language Day at DLIFLC (Presidio of Monterey: DLIFLC & USAG, PDM, flickr) https://www.flickr.com/photos/38345529@N05/14167989943
+- dance/4: 2014 Language Day at DLIFLC (Presidio of Monterey: DLIFLC & USAG, PDM, flickr) https://www.flickr.com/photos/38345529@N05/14148106604
+- dance/6: 2014 Language Day at DLIFLC (Presidio of Monterey: DLIFLC & USAG, PDM, flickr) https://www.flickr.com/photos/38345529@N05/14167986433
+- evangelization/0: A lovely couple with two dogs (freestocks.org, CC0, flickr) https://www.flickr.com/photos/135396164@N05/34386345973
+- evangelization/2: stocks-3705 (Artem Beliaikin, CC0, flickr) https://www.flickr.com/photos/157635012@N07/45182118181
+- evangelization/3: Walking the dog (freestocks.org, CC0, flickr) https://www.flickr.com/photos/135396164@N05/29546505111
+- evangelization/5: French Bulldog relaxing on the grass (freestocks.org, CC0, flickr) https://www.flickr.com/photos/135396164@N05/43590421652
+- gutfruit/3: Concert Festival (Burst, CC0, stocksnap) https://stocksnap.io/photo/concert-festival-4CNNMKE9IQ
+- gutfruit/1: Crowd at a Concert (MyStockPhotos, CC0, flickr) https://www.flickr.com/photos/136375272@N05/21575798108
+- gutfruit/8: Mambo_Dance-Tremestieri_Etneo-Sicilia-Italy - Creative Commons by gnuckx (gnuckx, CC0, flickr) https://www.flickr.com/photos/34409164@N06/4277355588
+- gutfruit/9: WE DAY VANCOUVER 2012 (US Embassy Canada, PDM, flickr) https://www.flickr.com/photos/38144472@N04/8101064968
+- gutfruit/6: WE DAY VANCOUVER 2012 (US Embassy Canada, PDM, flickr) https://www.flickr.com/photos/38144472@N04/8101092700
+- homeless/0: 20161005-FNS-LSC-0754 (USDAgov, PDM, flickr) https://www.flickr.com/photos/41284017@N08/30457857731
+- homeless/1: 20200417-FNS-LSC-0049 (USDAgov, PDM, flickr) https://www.flickr.com/photos/41284017@N08/49786696212
+- homeless/3: 20150916-OSEC-LSC-0114 (USDAgov, PDM, flickr) https://www.flickr.com/photos/41284017@N08/21450696420
+- homeless/2: 20150916-OSEC-LSC-0142 (USDAgov, PDM, flickr) https://www.flickr.com/photos/41284017@N08/21614533886
+- hub/7: With volunteers at the Remote Area Medical (RAM) Clinic - in Wise, VA (U.S. Senator Tim Kaine, PDM, flickr) https://www.flickr.com/photos/94393826@N02/9352433275
+- hub/0: Blood Donar, Be a lifesaver! (moonjazz, PDM, flickr) https://www.flickr.com/photos/8398907@N02/23871919205
+- hub/8: Operation Surf Santa Cruz 2016 (Presidio of Monterey: DLIFLC & USAG, PDM, flickr) https://www.flickr.com/photos/38345529@N05/26478998671
+- hub/3: Operation Surf Santa Cruz 2016 (Presidio of Monterey: DLIFLC & USAG, PDM, flickr) https://www.flickr.com/photos/38345529@N05/26519010706
+- jewish/0: DSC_1068 (Wonderlane, CC0, flickr) https://www.flickr.com/photos/71401718@N00/2109574867
+- jewish/3: The President Honored the Memory of Holocaust Victims. (President Of Ukraine, CC0, flickr) https://www.flickr.com/photos/165930373@N06/54291282760
+- jewish/6: 2022/365/353 Hanukkah 2 of 8: The Miracle Continues (cogdogblog, CC0, flickr) https://www.flickr.com/photos/37996646802@N01/52595185361
+- jewish/1: The President Honored the Memory of Holocaust Victims. (President Of Ukraine, CC0, flickr) https://www.flickr.com/photos/165930373@N06/54291099873
+- jos/3: Day 14 Occupy Wall Street September 30 2011 Shankbone (david_shankbone, PDM, flickr) https://www.flickr.com/photos/27865228@N06/6199715780
+- jos/0: Day 14 Occupy Wall Street September 30 2011 Shankbone 2 (david_shankbone, PDM, flickr) https://www.flickr.com/photos/27865228@N06/6199719210
+- jos/2: Day 14 Occupy Wall Street September 30 2011 Shankbone 35 (david_shankbone, PDM, flickr) https://www.flickr.com/photos/27865228@N06/6199820728
+- jos/1: Day 14 Occupy Wall Street September 30 2011 Shankbone 47 (david_shankbone, PDM, flickr) https://www.flickr.com/photos/27865228@N06/6199854848
+- jy/3: K-178-Ae-04006-id-419748 (Rawpixel Ltd, CC0, flickr) https://www.flickr.com/photos/147875007@N03/33268366694
+- jy/1: Girl Traveling Mountain Vacation (Rawpixel Ltd, CC0, flickr) https://www.flickr.com/photos/147875007@N03/34006154775
+- jy/6: Hiking Hikers (Austin Ban, CC0, stocksnap) https://stocksnap.io/photo/hiking-hikers-A150E71AFE
+- jy/7: #NPLD 2017: Caring for a Favorite OHV and Hiking Spots (blmcalifornia, PDM, flickr) https://www.flickr.com/photos/50976304@N07/36811652713
+- jy/0: group friends hiking sunrise sunset (unknown, CC0, rawpixel) https://www.rawpixel.com/image/3282780/free-photo-image-city-walk-group-building-sunset
+- marketing/3: Welcome to Twitter (freestocks.org, CC0, flickr) https://www.flickr.com/photos/135396164@N05/25314591330
+- marketing/4: Grab a coffee (freestocks.org, CC0, flickr) https://www.flickr.com/photos/135396164@N05/25574269621
+- marketing/7: ETC Wallpaper - Smartphone Transmission (EthereumClassic, CC0, flickr) https://www.flickr.com/photos/149639283@N08/38612363591
+- marketing/5: Woman with smartphone, Moscow (Artem Beliaikin, CC0, flickr) https://www.flickr.com/photos/157635012@N07/40851099253
+- media/1: Camera lens, photography equipment (unknown, CC0, rawpixel) https://www.rawpixel.com/image/6027580/photo-image-public-domain-technology-camera
+- media/0: Camera lens, photography equipment (unknown, CC0, rawpixel) https://www.rawpixel.com/image/6035619/photo-image-public-domain-technology-camera
+- media/3: Yashica Camera with Lens (Image Catalog, CC0, flickr) https://www.flickr.com/photos/132795455@N08/18535344600
+- media/6: black-and-white-coffee-cup-apple (pixellaphoto, CC0, flickr) https://www.flickr.com/photos/137643065@N06/23697457474
+- metodology/7: Journal Notepad (Cathryn Lavery, CC0, stocksnap) https://stocksnap.io/photo/journal-notepad-DPKNIIN5X3
+- metodology/3: Type writer on wooden table (Wallboat, CC0, flickr) https://www.flickr.com/photos/151415985@N06/37410363846
+- metodology/2: Writing in Notebook at Desk (Image Catalog, CC0, flickr) https://www.flickr.com/photos/132795455@N08/18692128651
+- metodology/6: Notebook Notepad (Wilfred Iven, CC0, stocksnap) https://stocksnap.io/photo/notebook-notepad-H5Y00D4OFT
+- metodology/8: CWD datasheet (U.S. Fish and Wildlife Service - Midwest Region, PDM, flickr) https://www.flickr.com/photos/49208525@N08/6343722631
+- music/3: Audience members lined rows front (unknown, CC0, rawpixel) https://www.rawpixel.com/image/3294105/free-photo-image-church-background-party-back
+- music/1: Concertgoers raising their open hands (unknown, CC0, rawpixel) https://www.rawpixel.com/image/3283045/free-photo-image-worship-crowd-silhouette
+- music/2: shot back large concert audience (unknown, CC0, rawpixel) https://www.rawpixel.com/image/3336837/free-photo-image-worship-background-concert-hall-stage
+- prayretreat/5: Free hands praying bible photo (unknown, CC0, rawpixel) https://www.rawpixel.com/image/5927350/photo-image-book-public-domain-hands
+- prayretreat/6: Free hands praying bible photo (unknown, CC0, rawpixel) https://www.rawpixel.com/image/5921503/photo-image-book-public-domain-hands
+- prayretreat/8: Free hands praying church image (unknown, CC0, rawpixel) https://www.rawpixel.com/image/5927179/photo-image-public-domain-hands-person
+- prayretreat/7: Head hands praying youth (unknown, CC0, rawpixel) https://www.rawpixel.com/image/8712195/head-and-hands-praying-youth
+- projects-dept/0: Alan Schaaf, Imgur Founder, in Wellington for TEDxWellington & more (US Embassy New Zealand, PDM, flickr) https://www.flickr.com/photos/46907600@N02/14935425508
+- projects-dept/1: Alan Schaaf, Imgur Founder, in Wellington for TEDxWellington & more (US Embassy New Zealand, PDM, flickr) https://www.flickr.com/photos/46907600@N02/14935331300
+- projects-dept/2: Alan Schaaf, Imgur Founder, in Wellington for TEDxWellington & more (US Embassy New Zealand, PDM, flickr) https://www.flickr.com/photos/46907600@N02/15118997121
+- projects-dept/3: Alan Schaaf, Imgur Founder, in Wellington for TEDxWellington & more (US Embassy New Zealand, PDM, flickr) https://www.flickr.com/photos/46907600@N02/14935419757
+- publishing/3: Old books library, our own (Tong, CC0, rawpixel) https://www.rawpixel.com/image/4062296/photo-image-aesthetic-botanical-les-roses
+- publishing/5: Woodcut illustration of Sappho (Provenance Online Project, CC0, flickr) https://www.flickr.com/photos/58558794@N07/6693268673
+- publishing/7: Illustrations of four counts of the Holy Roman Empire (from left: Graf von Cleve, Graf von Schwarzburg, Graf von Cilli, Graf von Savoyen) with their insignia, used by Peter Jordan of Mainz (Provenance Online Project, CC0, flickr) https://www.flickr.com/photos/58558794@N07/5954366677
+- publishing/8: Woodcut illustration of the sacrifice of Polyxena by Neoptolemus at the tomb of Achilles (Provenance Online Project, CC0, flickr) https://www.flickr.com/photos/58558794@N07/6693258329
+- shabatjc/4: Friends Dinner (Bruce Mars, CC0, stocksnap) https://stocksnap.io/photo/friends-dinner-RRSDBIHUMS
+- shabatjc/8: Seafood Dinner Spread (USDAgov, PDM, flickr) https://www.flickr.com/photos/41284017@N08/50653591692
+- shabatjc/9: A Great Dinner Party in Newtown (cogdogblog, CC0, flickr) https://www.flickr.com/photos/37996646802@N01/1774718911
+- shabatjc/7: Wedding table set (freestocks.org, CC0, flickr) https://www.flickr.com/photos/135396164@N05/28922718921
+- shabatmain/2: RISE students take in the Academy (US Coast Guard Academy, PDM, flickr) https://www.flickr.com/photos/43228104@N07/14334955208
+- shabatmain/0: RISE event 6/24 (US Coast Guard Academy, PDM, flickr) https://www.flickr.com/photos/43228104@N07/27601907470
+- shabatmain/7: 20170808-OSEC-LSC-0081 (USDAgov, PDM, flickr) https://www.flickr.com/photos/41284017@N08/35893750973
+- study/2: Proving What Was Learned (Dennis S. Hurd, CC0, flickr) https://www.flickr.com/photos/43296902@N00/141183312
+- study/7: 20130308-FNS-LSC-0121 (USDAgov, PDM, flickr) https://www.flickr.com/photos/41284017@N08/8542987036
+- study/9: 20130308-FNS-LSC-0371 (USDAgov, PDM, flickr) https://www.flickr.com/photos/41284017@N08/8547147540
+- study/6: 20130308-FNS-LSC-0019 (USDAgov, PDM, flickr) https://www.flickr.com/photos/41284017@N08/8541326761
+- theatre/3: Act I - John Maxwell: 'Not till I have a Kiss! my pretty one!' Julia: 'Help, help!! help!!' (Miss Cleveland and Messrs Walker and Groves); Distrust (ArchivesOfOntario, PDM, flickr) https://www.flickr.com/photos/121282668@N03/28747562535
+- theatre/1: 022725:Cinderella The Empire Palace Theatre Newgate Street Newcastle upon Tyne Evening World? c.1930 (Newcastle Libraries, PDM, flickr) https://www.flickr.com/photos/39821974@N06/4079037888
+- theatre/4: DIG13843-005 (LBJLibraryNow, PDM, flickr) https://www.flickr.com/photos/100836534@N04/25131363865
+- theatre/5: 'Florodora' stage production, Prince of Wales Theatre, Adelaide, S.A. - 1929 (Aussie~mobs, PDM, flickr) https://www.flickr.com/photos/70994841@N07/26060868238
+- music/5: File:Mystic Braves - guitarist playing 1968 Greco model 940 12-string thinline hollow body guitar - Bunk Bar (2015-06-04 23.59.43 by Jay Roc).jpg (Jay Roc, CC0, wikimedia) https://commons.wikimedia.org/w/index.php?curid=40865825
+- music/6: File:Mystic Braves - guitarist playing 1968 Greco model 940 12-string thinline hollow body guitar - Bunk Bar (2015-06-04 23.59.56 by Jay Roc).jpg (Jay Roc, CC0, wikimedia) https://commons.wikimedia.org/w/index.php?curid=40865897
+- music/8: Compay Segundo by David Shankbone (david_shankbone, PDM, flickr) https://www.flickr.com/photos/27865228@N06/4736533359
+- music/7: Concert (freestocks.org, CC0, flickr) https://www.flickr.com/photos/135396164@N05/25545258533
+- music/9: DSCF9304-Massimo Ranieri Concert 2009 Taormina-Sicilia-Italy-gnuckx-CC0-HQ (gnuckx, CC0, flickr) https://www.flickr.com/photos/34409164@N06/3912729840
+- music/0: People Woman (Shaun Frankland, CC0, stocksnap) https://stocksnap.io/photo/people-woman-HWBKCRQW1W
+- music/4: 120223-N-HG258-015 (United States Navy Band, PDM, flickr) https://www.flickr.com/photos/46297475@N06/6779598372
+- dance/8: 2014 Language Day at DLIFLC (Presidio of Monterey: DLIFLC & USAG, PDM, flickr) https://www.flickr.com/photos/38345529@N05/13961252718
+- dance/0: 2014 Language Day at DLIFLC (Presidio of Monterey: DLIFLC & USAG, PDM, flickr) https://www.flickr.com/photos/38345529@N05/14167989223
+- dance/9: 2014 Language Day at DLIFLC (Presidio of Monterey: DLIFLC & USAG, PDM, flickr) https://www.flickr.com/photos/38345529@N05/14145029732
